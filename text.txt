@@ -9,4 +9,4 @@ hello world
 *.dot  diff=astextplain
 *.pdf  diff=astextplain
 *.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+*.RTF	 diff=astextplain¸ßÑ¹ÊÇ
